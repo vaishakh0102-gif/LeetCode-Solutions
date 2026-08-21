@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         int cnt1=0,cnt2=0;
         vector<int>ele;
-        int ele1,ele2;
+        int ele1=0,ele2=0;
         for (int i=0;i<n;i++){
             if (cnt1==0&& nums[i]!=ele2){
                 cnt1=1;
