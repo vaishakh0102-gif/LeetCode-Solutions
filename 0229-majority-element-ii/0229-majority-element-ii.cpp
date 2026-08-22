@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         int cnt1=0,cnt2=0;
         vector<int>ele;
-        int ele1=0,ele2=0;
+        int ele1=INT_MIN,ele2=INT_MIN;
         for (int i=0;i<n;i++){
             if (cnt1==0&& nums[i]!=ele2){
                 cnt1=1;
@@ -26,7 +26,7 @@ public:
         int cnt3=0,cnt4=0;
         for (int i=0;i<n;i++){
             if (nums[i]==ele1) cnt3++;
-            else if (nums[i]==ele2) cnt4++;
+            if (nums[i]==ele2) cnt4++;
         }
         if (cnt3 > n / 3) ele.push_back(ele1);
         if (cnt4 > n / 3) ele.push_back(ele2);
