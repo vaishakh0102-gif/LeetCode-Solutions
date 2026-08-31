@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
