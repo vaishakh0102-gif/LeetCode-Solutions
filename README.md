@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Array
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
