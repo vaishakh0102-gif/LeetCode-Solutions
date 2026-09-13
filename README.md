@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Two Pointers
 | Problem Name | Difficulty |
