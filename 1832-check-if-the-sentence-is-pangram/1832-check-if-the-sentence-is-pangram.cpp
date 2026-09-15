@@ -12,7 +12,22 @@ public:
             
         }
         return true;
+
+        // bool seen[26] = {false};
+        // int count = 0;
+
+        // for (int i = 0; i < n; i++) {
+        //     int idx = sentence[i] - 'a';
+        //     if (!seen[idx]) {
+        //         seen[idx] = true;
+        //         count++;
+        //         if (count == 26) return true; // Early exit
+        //     }
+        // }
+
+        // return false;
         
     }
+    
     
 };
