@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2643-row-with-maximum-ones](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
