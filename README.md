@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -254,5 +255,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
