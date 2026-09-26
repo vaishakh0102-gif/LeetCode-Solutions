@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -262,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
