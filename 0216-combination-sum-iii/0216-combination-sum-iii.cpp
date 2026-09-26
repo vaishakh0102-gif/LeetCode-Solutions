@@ -8,6 +8,7 @@ private:
                 return;
             }
         }
+        if (sum>target)return;
         for(int i=ind;i<=9;i++){
             ds.push_back(i);
             comb(i+1,target,sum+i,k,ds,ans);
