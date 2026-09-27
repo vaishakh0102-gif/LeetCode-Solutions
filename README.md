@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0125-valid-palindrome](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
