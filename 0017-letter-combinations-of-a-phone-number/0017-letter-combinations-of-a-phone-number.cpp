@@ -19,7 +19,7 @@ private:
 public:
     vector<string> letterCombinations(string digits) {
         if(digits.empty())return {};
-        vector<string>pad={""," ","abc","def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
+        vector<string>pad={"","","abc","def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
         };
         string ds="";
         vector<string>ans;
