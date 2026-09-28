@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1922-count-good-numbers](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Array
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
