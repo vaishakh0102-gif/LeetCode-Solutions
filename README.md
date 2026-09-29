@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -264,9 +266,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
