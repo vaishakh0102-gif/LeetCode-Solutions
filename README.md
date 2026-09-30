@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1922-count-good-numbers](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Hash Table
 | Problem Name | Difficulty |
