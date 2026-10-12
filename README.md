@@ -297,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
