@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
