@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1922-count-good-numbers](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
+| [2235-add-two-integers](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Array
