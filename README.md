@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
