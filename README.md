@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0645-set-mismatch](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Quicksort
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
