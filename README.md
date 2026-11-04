@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0645-set-mismatch](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
