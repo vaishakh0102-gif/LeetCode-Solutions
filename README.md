@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2643-row-with-maximum-ones](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,4 +401,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 <!---LeetCode Topics End-->
