@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
