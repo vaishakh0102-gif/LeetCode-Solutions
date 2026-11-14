@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0402-remove-k-digits](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0402-remove-k-digits](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
