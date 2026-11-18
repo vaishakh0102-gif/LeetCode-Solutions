@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -423,8 +426,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
