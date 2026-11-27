@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -535,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/vaishakh0102-gif/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
